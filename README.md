@@ -50,11 +50,8 @@ Music and code share the same logical structure. As a producer of **Industrial T
 
 ---
 
-### <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30px" align="absmiddle" /> Performance & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignaciojulio&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciojulio&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</div>
+# 📊 GitHub Stats:
+![ignaciojulio's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=ignaciojulio&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 ---
 
